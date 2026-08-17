@@ -1,0 +1,5 @@
+# Replaced with the production SITE_URL during npm run build.
+User-agent: *
+Allow: /
+
+Sitemap: https://toolnest.example/sitemap.xml

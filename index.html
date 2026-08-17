@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#ffffff" />
+    <meta name="description" content="Simple, fast and free calculators and converters for everyday use." />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="ToolNest" />
+    <link rel="canonical" href="https://toolnest.example/" />
+    <link rel="icon" href="/icons/icon.svg" type="image/svg+xml" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <title>ToolNest — Free Online Calculators & Converters</title>
+    <script>
+      try { const t=localStorage.getItem('toolnest-theme'); if(t==='dark'||(!t&&matchMedia('(prefers-color-scheme: dark)').matches)) document.documentElement.classList.add('dark') } catch(e){}
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

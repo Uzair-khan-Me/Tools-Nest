@@ -1,0 +1,3 @@
+import { Link } from 'react-router-dom'
+import { Icon } from './Icon'
+export function Breadcrumbs({items}:{items:Array<{label:string;to?:string}>}){return <nav aria-label="Breadcrumb" className="mb-6 overflow-x-auto"><ol className="flex min-w-max items-center gap-1 text-sm text-slate-500">{items.map((item,index)=><li key={`${item.label}-${index}`} className="flex items-center gap-1">{index>0&&<Icon name="chevron" size={14} className="text-slate-400"/>}{item.to?<Link to={item.to} className="rounded px-1 py-1 hover:text-brand-600">{item.label}</Link>:<span className="px-1 py-1 font-semibold text-ink-800 dark:text-slate-200" aria-current="page">{item.label}</span>}</li>)}</ol></nav>}

@@ -1,0 +1,1300 @@
+[
+  {
+    "name": "Percentage Calculator",
+    "slug": "percentage-calculator",
+    "category": "Math",
+    "description": "Find a percentage of a number, what percent one value is of another, or a value after a percentage change.",
+    "keywords": [
+      "percentage",
+      "percent",
+      "%",
+      "proportion",
+      "math"
+    ],
+    "icon": "percent",
+    "group": "math",
+    "seoTitle": "Percentage Calculator — Find Percentages Free | ToolNest",
+    "seoDescription": "Calculate percentages instantly: find X% of Y, what percent one number is of another, and percentage changes. Free with formulas.",
+    "intro": "Use this percentage calculator for the three percentage questions people ask most often. Choose a mode, enter the known values, and the calculator shows both the answer and the arithmetic behind it.",
+    "formula": "Part = percentage ÷ 100 × whole. Percentage = part ÷ whole × 100. Changed value = original × (1 ± percentage ÷ 100).",
+    "howItWorks": "A percent means “per hundred.” The calculator first converts the percentage to a decimal by dividing it by 100, then multiplies or divides according to the selected question. It keeps full precision for the calculation and rounds only the displayed answer.",
+    "examples": [
+      "25% of 200 is 50 because 0.25 × 200 = 50.",
+      "45 is 15% of 300 because 45 ÷ 300 × 100 = 15%."
+    ],
+    "faqs": [
+      {
+        "q": "Can I enter decimal percentages?",
+        "a": "Yes. Values such as 7.5% and 0.25% are supported."
+      },
+      {
+        "q": "Can percentages be greater than 100?",
+        "a": "Yes. For example, 125% of 80 is 100."
+      }
+    ],
+    "related": [
+      "discount-calculator",
+      "average-calculator",
+      "ratio-calculator",
+      "fraction-calculator"
+    ]
+  },
+  {
+    "name": "Percentage Increase Calculator",
+    "slug": "percentage-increase-calculator",
+    "category": "Math",
+    "description": "Measure the percentage increase from an original value to a larger new value.",
+    "keywords": [
+      "percentage",
+      "increase",
+      "growth",
+      "change",
+      "markup"
+    ],
+    "icon": "trend-up",
+    "group": "math",
+    "seoTitle": "Percentage Increase Calculator | ToolNest",
+    "seoDescription": "Find the percentage increase between an original and new value, with the change and formula shown.",
+    "intro": "The percentage increase calculator measures growth relative to the starting value. It is useful for prices, traffic, sales, population, test scores, and any quantity that has risen over time.",
+    "formula": "Percentage increase = (new value − original value) ÷ original value × 100.",
+    "howItWorks": "The absolute increase is found first by subtracting the original value from the new value. Dividing that increase by the original creates a relative change, which is multiplied by 100 to express it as a percentage.",
+    "examples": [
+      "A rise from 80 to 100 is a 25% increase.",
+      "A price rising from 49.50 to 54.45 increased by 10%."
+    ],
+    "faqs": [
+      {
+        "q": "Why is the original value the denominator?",
+        "a": "Increase is measured relative to where the quantity started, so the starting value is the comparison base."
+      },
+      {
+        "q": "What if the new value is lower?",
+        "a": "The result will be negative; use the Percentage Decrease Calculator for a more natural presentation."
+      }
+    ],
+    "related": [
+      "percentage-decrease-calculator",
+      "percentage-calculator",
+      "average-calculator"
+    ]
+  },
+  {
+    "name": "Percentage Decrease Calculator",
+    "slug": "percentage-decrease-calculator",
+    "category": "Math",
+    "description": "Calculate how much a value decreased as a percentage of its original amount.",
+    "keywords": [
+      "percentage",
+      "decrease",
+      "reduction",
+      "change",
+      "loss"
+    ],
+    "icon": "trend-down",
+    "group": "math",
+    "seoTitle": "Percentage Decrease Calculator | ToolNest",
+    "seoDescription": "Calculate percentage decrease from an original value to a new value and see the reduction formula.",
+    "intro": "Use percentage decrease to describe how much a quantity has fallen compared with its original level. The result includes the absolute reduction and the percentage reduction.",
+    "formula": "Percentage decrease = (original value − new value) ÷ original value × 100.",
+    "howItWorks": "The calculator subtracts the new value from the original, then divides the reduction by the original amount. Multiplying by 100 converts the relative reduction into a percentage.",
+    "examples": [
+      "A drop from 250 to 200 is a 20% decrease.",
+      "Reducing 72 to 54 represents a 25% decrease."
+    ],
+    "faqs": [
+      {
+        "q": "Can the result exceed 100%?",
+        "a": "Not when both values are non-negative and the new value is zero or higher. Negative new values can produce a decrease above 100%."
+      },
+      {
+        "q": "Is percentage decrease the same as the amount saved?",
+        "a": "The method is the same when a sale price is compared with its original price."
+      }
+    ],
+    "related": [
+      "percentage-increase-calculator",
+      "discount-calculator",
+      "percentage-calculator"
+    ]
+  },
+  {
+    "name": "Fraction Calculator",
+    "slug": "fraction-calculator",
+    "category": "Math",
+    "description": "Add, subtract, multiply or divide fractions and simplify the exact result.",
+    "keywords": [
+      "fraction",
+      "add fractions",
+      "subtract",
+      "multiply",
+      "divide",
+      "simplify"
+    ],
+    "icon": "divide",
+    "group": "math",
+    "seoTitle": "Fraction Calculator — Add, Subtract, Multiply & Divide | ToolNest",
+    "seoDescription": "Calculate and simplify fraction addition, subtraction, multiplication, or division with decimal output.",
+    "intro": "Enter two fractions and select an operation. ToolNest returns a reduced fraction, an improper or whole-number form when appropriate, and its decimal value.",
+    "formula": "a/b + c/d = (ad + bc)/bd; a/b × c/d = ac/bd; a/b ÷ c/d = ad/bc.",
+    "howItWorks": "For addition and subtraction, fractions are converted to a common denominator. Multiplication works across the numerators and denominators, while division multiplies by the second fraction’s reciprocal. A greatest common divisor then reduces the answer.",
+    "examples": [
+      "1/2 + 1/3 = 5/6.",
+      "3/4 ÷ 2/5 = 15/8, or 1.875."
+    ],
+    "faqs": [
+      {
+        "q": "Are negative fractions supported?",
+        "a": "Yes. Put the negative sign in either numerator."
+      },
+      {
+        "q": "Can a denominator be zero?",
+        "a": "No. Division by zero is undefined, so denominators must be non-zero."
+      }
+    ],
+    "related": [
+      "ratio-calculator",
+      "percentage-calculator",
+      "average-calculator"
+    ]
+  },
+  {
+    "name": "Ratio Calculator",
+    "slug": "ratio-calculator",
+    "category": "Math",
+    "description": "Simplify a two-part ratio or solve an equivalent proportion with one missing value.",
+    "keywords": [
+      "ratio",
+      "proportion",
+      "simplify ratio",
+      "equivalent",
+      "scale"
+    ],
+    "icon": "ratio",
+    "group": "math",
+    "seoTitle": "Ratio Calculator — Simplify Ratios & Solve Proportions | ToolNest",
+    "seoDescription": "Simplify ratios and solve equivalent proportions using a free, instant ratio calculator.",
+    "intro": "Ratios compare quantities. This calculator reduces a two-number ratio to its simplest whole-number form and reports the equivalent decimal relationship.",
+    "formula": "Simplified ratio = (a ÷ gcd(a,b)) : (b ÷ gcd(a,b)).",
+    "howItWorks": "For whole numbers, the calculator finds the greatest common divisor and divides both terms by it. Decimal inputs are scaled to whole numbers first, preserving the relationship before reduction.",
+    "examples": [
+      "18:24 simplifies to 3:4.",
+      "2.5:10 scales to 25:100 and simplifies to 1:4."
+    ],
+    "faqs": [
+      {
+        "q": "Does changing both values by the same factor change a ratio?",
+        "a": "No. 2:3, 4:6, and 10:15 all describe the same proportion."
+      },
+      {
+        "q": "Can either side be zero?",
+        "a": "A ratio can contain one zero, but 0:0 does not provide a meaningful comparison."
+      }
+    ],
+    "related": [
+      "fraction-calculator",
+      "percentage-calculator",
+      "average-calculator"
+    ]
+  },
+  {
+    "name": "Average Calculator",
+    "slug": "average-calculator",
+    "category": "Math",
+    "description": "Find the arithmetic mean, sum, count, minimum and maximum of a list of numbers.",
+    "keywords": [
+      "average",
+      "mean",
+      "arithmetic mean",
+      "sum",
+      "numbers",
+      "statistics"
+    ],
+    "icon": "sigma",
+    "group": "math",
+    "seoTitle": "Average Calculator — Mean, Sum, Min & Max | ToolNest",
+    "seoDescription": "Enter a list of numbers to calculate the average, sum, count, minimum and maximum instantly.",
+    "intro": "Paste or type a set of numbers separated by commas, spaces, or new lines. The calculator summarizes the data without uploading it anywhere.",
+    "formula": "Arithmetic mean = sum of all values ÷ number of values.",
+    "howItWorks": "Every valid number is added to form the sum, and the sum is divided by the number of entries. Minimum and maximum are selected directly from the same parsed list.",
+    "examples": [
+      "The average of 4, 8, and 12 is 8.",
+      "The average of 1.5, 2.5, 5, and 7 is 4."
+    ],
+    "faqs": [
+      {
+        "q": "Are decimals and negative values allowed?",
+        "a": "Yes. Both are included normally in the sum and count."
+      },
+      {
+        "q": "Is this a weighted average?",
+        "a": "No. Every value has equal weight in this arithmetic mean."
+      }
+    ],
+    "related": [
+      "percentage-calculator",
+      "random-number-generator",
+      "ratio-calculator"
+    ]
+  },
+  {
+    "name": "Random Number Generator",
+    "slug": "random-number-generator",
+    "category": "Math",
+    "description": "Generate one or more random integers or decimals within a custom range.",
+    "keywords": [
+      "random",
+      "number",
+      "generator",
+      "integer",
+      "decimal",
+      "rng",
+      "dice"
+    ],
+    "icon": "shuffle",
+    "group": "math",
+    "seoTitle": "Random Number Generator — Integers & Decimals | ToolNest",
+    "seoDescription": "Generate random integers or decimal numbers inside any range. Choose the quantity and precision.",
+    "intro": "Generate random values entirely in your browser. Choose a minimum, maximum, quantity, and whether the values should be integers or decimals.",
+    "formula": "Random decimal = minimum + random value × (maximum − minimum).",
+    "howItWorks": "The browser’s cryptographic random-number generator supplies unpredictable bytes. ToolNest maps those values evenly into the requested range, avoiding paid services or network requests.",
+    "examples": [
+      "A range of 1 to 6 can simulate a standard die.",
+      "A range of 0 to 1 with three decimal places can produce values such as 0.284."
+    ],
+    "faqs": [
+      {
+        "q": "Are the results secure enough for passwords or lotteries?",
+        "a": "The generator uses the browser crypto API, but it is not a certified lottery or password system."
+      },
+      {
+        "q": "Can numbers repeat?",
+        "a": "Yes. Each value is generated independently, so repeats are possible."
+      }
+    ],
+    "related": [
+      "average-calculator",
+      "percentage-calculator",
+      "ratio-calculator"
+    ]
+  },
+  {
+    "name": "Discount Calculator",
+    "slug": "discount-calculator",
+    "category": "Finance",
+    "description": "Calculate sale price, savings and effective discount from an original price.",
+    "keywords": [
+      "discount",
+      "sale",
+      "price",
+      "savings",
+      "money",
+      "coupon"
+    ],
+    "icon": "tag",
+    "group": "finance",
+    "seoTitle": "Discount Calculator — Sale Price & Savings | ToolNest",
+    "seoDescription": "Calculate the final sale price and amount saved after a percentage discount, including optional tax.",
+    "intro": "Find the real cost of a discounted item. Enter the original price and discount rate, with optional sales tax applied after the discount.",
+    "formula": "Savings = original price × discount ÷ 100. Final before tax = original − savings.",
+    "howItWorks": "The discount is deducted from the original price first. If a tax rate is supplied, tax is calculated on the reduced price rather than the original amount.",
+    "examples": [
+      "20% off 150 saves 30 and gives a sale price of 120.",
+      "A 75 item at 10% off costs 67.50 before tax."
+    ],
+    "faqs": [
+      {
+        "q": "Is tax calculated before or after discount?",
+        "a": "This calculator applies tax after discount, which is standard in many jurisdictions."
+      },
+      {
+        "q": "Can I calculate stacked discounts?",
+        "a": "Enter the combined effective discount, or calculate each discount sequentially because two 10% discounts do not equal one 20% discount."
+      }
+    ],
+    "related": [
+      "percentage-calculator",
+      "gst-calculator",
+      "vat-calculator",
+      "tip-calculator"
+    ]
+  },
+  {
+    "name": "Loan Calculator",
+    "slug": "loan-calculator",
+    "category": "Finance",
+    "description": "Estimate monthly loan payments, total repayment and total interest for a fixed-rate loan.",
+    "keywords": [
+      "loan",
+      "payment",
+      "mortgage",
+      "interest",
+      "emi",
+      "money",
+      "finance"
+    ],
+    "icon": "bank",
+    "group": "finance",
+    "seoTitle": "Loan Calculator — Monthly Payment & Interest | ToolNest",
+    "seoDescription": "Estimate fixed-rate loan monthly payments, total repayment, and total interest with a clear amortization formula.",
+    "intro": "Estimate the cost of a fixed-rate, fully amortizing loan. The result separates the monthly payment, total paid over the term, and interest cost.",
+    "formula": "Payment = P × r(1+r)^n ÷ ((1+r)^n − 1), where r is the monthly rate and n is the number of payments.",
+    "howItWorks": "The annual interest rate is divided into a monthly rate and the term is converted to monthly payments. Each equal payment covers that month’s interest plus part of the principal. A zero-rate loan is handled by dividing principal evenly.",
+    "examples": [
+      "A 10,000 loan at 6% for 3 years is about 304.22 per month.",
+      "At 0% interest, 12,000 over 24 months costs exactly 500 per month."
+    ],
+    "faqs": [
+      {
+        "q": "Does this include lender fees?",
+        "a": "No. Origination fees, insurance, penalties, and variable-rate changes are not included."
+      },
+      {
+        "q": "Why can the real payment differ?",
+        "a": "Lenders may use different compounding rules, rounding, payment dates, taxes, or fees."
+      }
+    ],
+    "related": [
+      "compound-interest-calculator",
+      "simple-interest-calculator",
+      "salary-calculator"
+    ]
+  },
+  {
+    "name": "Compound Interest Calculator",
+    "slug": "compound-interest-calculator",
+    "category": "Finance",
+    "description": "Project investment growth with compound interest and optional recurring monthly contributions.",
+    "keywords": [
+      "compound interest",
+      "investment",
+      "savings",
+      "growth",
+      "money",
+      "apy"
+    ],
+    "icon": "coins",
+    "group": "finance",
+    "seoTitle": "Compound Interest Calculator — Investment Growth | ToolNest",
+    "seoDescription": "Project compound interest with principal, rate, term, compounding frequency, and monthly contributions.",
+    "intro": "See how an initial balance can grow when earned interest is reinvested. Optional monthly deposits show the combined effect of contributions and compounding.",
+    "formula": "Without contributions: A = P(1 + r/n)^(nt). Contributions are accumulated at the equivalent periodic growth rate.",
+    "howItWorks": "Interest is applied at the selected compounding frequency. Monthly contributions are added through the term and then earn interest for their remaining time. The result separates deposits from investment growth.",
+    "examples": [
+      "10,000 at 5% compounded monthly for 10 years grows to about 16,470 without deposits.",
+      "Regular contributions can become a larger part of the final balance than the starting principal."
+    ],
+    "faqs": [
+      {
+        "q": "What does compounding frequency change?",
+        "a": "More frequent compounding adds earned interest to the balance sooner, usually producing a slightly higher result."
+      },
+      {
+        "q": "Does this predict investment returns?",
+        "a": "No. It illustrates constant-rate growth; real returns vary and may include fees and taxes."
+      }
+    ],
+    "related": [
+      "simple-interest-calculator",
+      "loan-calculator",
+      "salary-calculator"
+    ]
+  },
+  {
+    "name": "Simple Interest Calculator",
+    "slug": "simple-interest-calculator",
+    "category": "Finance",
+    "description": "Calculate simple interest, total amount and periodic interest without compounding.",
+    "keywords": [
+      "simple interest",
+      "principal",
+      "rate",
+      "money",
+      "finance"
+    ],
+    "icon": "percent",
+    "group": "finance",
+    "seoTitle": "Simple Interest Calculator — Principal, Rate & Time | ToolNest",
+    "seoDescription": "Calculate simple interest and the final amount from principal, annual rate, and time.",
+    "intro": "Simple interest is calculated only on the original principal. It is commonly used for short-term estimates and makes the relationship between rate and time easy to see.",
+    "formula": "Interest = principal × annual rate ÷ 100 × time in years. Total = principal + interest.",
+    "howItWorks": "The annual percentage is converted to a decimal and multiplied by the principal and duration. Unlike compound interest, previously earned interest never becomes part of the calculation base.",
+    "examples": [
+      "5,000 at 4% for 3 years earns 600 in simple interest.",
+      "1,200 at 10% for 6 months earns 60."
+    ],
+    "faqs": [
+      {
+        "q": "How are months handled?",
+        "a": "Months are converted to a fraction of a year, so six months equals 0.5 years."
+      },
+      {
+        "q": "When should I use compound interest instead?",
+        "a": "Use compound interest when earned interest is periodically added to the balance."
+      }
+    ],
+    "related": [
+      "compound-interest-calculator",
+      "loan-calculator",
+      "percentage-calculator"
+    ]
+  },
+  {
+    "name": "Tip Calculator",
+    "slug": "tip-calculator",
+    "category": "Finance",
+    "description": "Calculate a tip, total bill and per-person split for any party size.",
+    "keywords": [
+      "tip",
+      "gratuity",
+      "restaurant",
+      "bill",
+      "split",
+      "money"
+    ],
+    "icon": "receipt",
+    "group": "finance",
+    "seoTitle": "Tip Calculator — Split Bill Per Person | ToolNest",
+    "seoDescription": "Calculate a tip and split the total bill evenly between any number of people.",
+    "intro": "Quickly work out a gratuity and divide the final bill. You can use a common tip preset or enter a custom rate, then choose the number of people paying.",
+    "formula": "Tip = bill × tip rate ÷ 100. Per person = (bill + tip) ÷ people.",
+    "howItWorks": "The selected percentage is applied to the bill amount. The original bill and tip are added, and both the tip and total are split equally across the party size.",
+    "examples": [
+      "A 15% tip on 80 is 12, for a total of 92.",
+      "A 120 bill with 20% tip split four ways is 36 per person."
+    ],
+    "faqs": [
+      {
+        "q": "Should I tip before or after tax?",
+        "a": "Customs vary. Enter the amount you want the tip based on; this calculator does not assume a tax treatment."
+      },
+      {
+        "q": "Can the split be uneven?",
+        "a": "This version divides evenly. Adjust individual amounts separately for an uneven split."
+      }
+    ],
+    "related": [
+      "discount-calculator",
+      "percentage-calculator",
+      "gst-calculator"
+    ]
+  },
+  {
+    "name": "GST Calculator",
+    "slug": "gst-calculator",
+    "category": "Finance",
+    "description": "Add or remove Goods and Services Tax from an amount at any GST rate.",
+    "keywords": [
+      "gst",
+      "goods services tax",
+      "tax",
+      "inclusive",
+      "exclusive",
+      "money"
+    ],
+    "icon": "receipt",
+    "group": "finance",
+    "seoTitle": "GST Calculator — Add or Remove GST | ToolNest",
+    "seoDescription": "Add GST to a net price or extract GST from a tax-inclusive total using any rate.",
+    "intro": "Use either GST-exclusive mode to add tax to a net amount or GST-inclusive mode to find the tax already contained in a total.",
+    "formula": "Add GST: gross = net × (1 + rate/100). Extract GST: tax = gross − gross ÷ (1 + rate/100).",
+    "howItWorks": "Adding GST applies the rate directly to the tax-exclusive price. Extracting included GST reverses the multiplication; simply multiplying a gross amount by the rate would overstate the included tax.",
+    "examples": [
+      "10% GST on a net 200 amount is 20, giving 220 gross.",
+      "A 110 GST-inclusive total at 10% contains 10 tax."
+    ],
+    "faqs": [
+      {
+        "q": "Can I use any country’s GST rate?",
+        "a": "Yes. Enter the applicable rate for your transaction; ToolNest does not assume a jurisdiction."
+      },
+      {
+        "q": "Why is extracted GST not gross × rate?",
+        "a": "Because the gross already includes tax. The net base must be recovered first."
+      }
+    ],
+    "related": [
+      "vat-calculator",
+      "discount-calculator",
+      "percentage-calculator"
+    ]
+  },
+  {
+    "name": "VAT Calculator",
+    "slug": "vat-calculator",
+    "category": "Finance",
+    "description": "Add VAT to a net price or extract VAT from a tax-inclusive amount.",
+    "keywords": [
+      "vat",
+      "value added tax",
+      "tax",
+      "inclusive",
+      "exclusive",
+      "money"
+    ],
+    "icon": "receipt",
+    "group": "finance",
+    "seoTitle": "VAT Calculator — Add or Remove VAT | ToolNest",
+    "seoDescription": "Calculate VAT from net or gross amounts at any value-added tax rate.",
+    "intro": "Calculate net price, VAT amount, and gross price. Switch between adding VAT to a net figure and removing included VAT from a gross total.",
+    "formula": "Gross = net × (1 + VAT rate/100). Net from gross = gross ÷ (1 + VAT rate/100).",
+    "howItWorks": "In net mode, the rate is applied to the pre-tax amount. In gross mode, division by the VAT multiplier identifies the original net amount and the difference is the included VAT.",
+    "examples": [
+      "20% VAT added to 50 gives a gross price of 60.",
+      "A gross price of 240 at 20% VAT contains 40 VAT and 200 net."
+    ],
+    "faqs": [
+      {
+        "q": "Is VAT the same rate everywhere?",
+        "a": "No. Rates and exemptions vary by country and product, so confirm the correct rate locally."
+      },
+      {
+        "q": "Does this calculator file a tax return?",
+        "a": "No. It only performs arithmetic and is not tax advice or filing software."
+      }
+    ],
+    "related": [
+      "gst-calculator",
+      "discount-calculator",
+      "percentage-calculator"
+    ]
+  },
+  {
+    "name": "Salary Calculator",
+    "slug": "salary-calculator",
+    "category": "Finance",
+    "description": "Convert salary between hourly, weekly, monthly and annual pay and estimate take-home pay.",
+    "keywords": [
+      "salary",
+      "hourly",
+      "monthly",
+      "annual",
+      "wage",
+      "income",
+      "money",
+      "take home"
+    ],
+    "icon": "wallet",
+    "group": "finance",
+    "seoTitle": "Salary Calculator — Hourly, Monthly & Annual Pay | ToolNest",
+    "seoDescription": "Convert salary across hourly, weekly, monthly, and yearly amounts with an optional deduction estimate.",
+    "intro": "Compare pay quoted at different intervals. Enter an amount and pay period, then customize weekly hours, working weeks, and an estimated deduction rate.",
+    "formula": "Annual salary is normalized from the selected period; hourly = annual ÷ (hours/week × weeks/year).",
+    "howItWorks": "All pay periods are first converted into an annual gross figure. That annual amount is then divided into monthly, weekly, and hourly equivalents. Optional deductions are a simple percentage estimate rather than a jurisdiction-specific tax calculation.",
+    "examples": [
+      "25 per hour at 40 hours for 52 weeks equals 52,000 gross annually.",
+      "60,000 per year is 5,000 gross per month."
+    ],
+    "faqs": [
+      {
+        "q": "Does this account for holidays or overtime?",
+        "a": "Only through the working weeks and hours you enter. Overtime premiums are not added automatically."
+      },
+      {
+        "q": "Is estimated take-home pay exact?",
+        "a": "No. Real payroll deductions may use brackets, allowances, benefits, and local rules."
+      }
+    ],
+    "related": [
+      "loan-calculator",
+      "compound-interest-calculator",
+      "percentage-calculator"
+    ]
+  },
+  {
+    "name": "BMI Calculator",
+    "slug": "bmi-calculator",
+    "category": "Health",
+    "description": "Calculate adult body mass index from metric or imperial height and weight.",
+    "keywords": [
+      "bmi",
+      "body mass index",
+      "kg",
+      "weight",
+      "height",
+      "health"
+    ],
+    "icon": "heart",
+    "group": "health",
+    "seoTitle": "BMI Calculator — Metric & Imperial | ToolNest",
+    "seoDescription": "Calculate adult BMI from height and weight in metric or imperial units and view the standard category range.",
+    "intro": "BMI is a screening measure that compares weight with height. Use metric or imperial units to calculate the value and see the standard adult category associated with it.",
+    "formula": "BMI = weight in kilograms ÷ height in metres². Imperial BMI = 703 × pounds ÷ inches².",
+    "howItWorks": "Height is squared so weight is evaluated relative to body size. Standard adult ranges classify values below 18.5 as underweight, 18.5–24.9 as healthy range, 25–29.9 as overweight, and 30 or above as obesity.",
+    "examples": [
+      "70 kg at 1.75 m gives a BMI of about 22.9.",
+      "150 lb at 5 ft 6 in gives a BMI of about 24.2."
+    ],
+    "faqs": [
+      {
+        "q": "Is BMI a diagnosis?",
+        "a": "No. It is a screening measure and does not directly measure body fat, health, or individual risk."
+      },
+      {
+        "q": "Is adult BMI suitable for children or pregnancy?",
+        "a": "No. Children use age- and sex-specific growth charts, and BMI has limitations during pregnancy."
+      }
+    ],
+    "related": [
+      "bmr-calculator",
+      "calorie-calculator",
+      "weight-converter",
+      "unit-converter"
+    ]
+  },
+  {
+    "name": "BMR Calculator",
+    "slug": "bmr-calculator",
+    "category": "Health",
+    "description": "Estimate basal metabolic rate using the Mifflin–St Jeor equation.",
+    "keywords": [
+      "bmr",
+      "basal metabolic rate",
+      "metabolism",
+      "calories",
+      "health",
+      "energy"
+    ],
+    "icon": "flame",
+    "group": "health",
+    "seoTitle": "BMR Calculator — Basal Metabolic Rate | ToolNest",
+    "seoDescription": "Estimate daily basal metabolic rate from age, sex, height, and weight using the Mifflin–St Jeor equation.",
+    "intro": "Basal metabolic rate estimates the energy your body uses each day at complete rest for essential functions such as breathing and circulation.",
+    "formula": "Mifflin–St Jeor: 10W + 6.25H − 5A + s, where s is +5 for male and −161 for female.",
+    "howItWorks": "Weight in kilograms, height in centimetres, and age in years are combined using the Mifflin–St Jeor equation. The estimate does not include movement, exercise, or digestion, so actual daily needs are higher.",
+    "examples": [
+      "A 30-year-old male at 75 kg and 180 cm has an estimated BMR of 1,730 kcal/day.",
+      "Activity calories should not be confused with resting BMR."
+    ],
+    "faqs": [
+      {
+        "q": "Is BMR the number of calories I should eat?",
+        "a": "Not usually. BMR excludes normal activity; estimated total daily expenditure is more useful for intake planning."
+      },
+      {
+        "q": "Why is biological sex used?",
+        "a": "The validated equation uses sex-specific constants, but it remains a population estimate with individual limitations."
+      }
+    ],
+    "related": [
+      "calorie-calculator",
+      "bmi-calculator",
+      "weight-converter"
+    ]
+  },
+  {
+    "name": "Calorie Calculator",
+    "slug": "calorie-calculator",
+    "category": "Health",
+    "description": "Estimate maintenance calories and planning ranges based on BMR and activity level.",
+    "keywords": [
+      "calorie",
+      "tdee",
+      "maintenance",
+      "weight loss",
+      "weight gain",
+      "diet",
+      "health"
+    ],
+    "icon": "flame",
+    "group": "health",
+    "seoTitle": "Calorie Calculator — Maintenance Calories & TDEE | ToolNest",
+    "seoDescription": "Estimate maintenance calories (TDEE) from age, sex, height, weight, and activity level.",
+    "intro": "Estimate total daily energy expenditure, often called maintenance calories. The calculator starts with BMR and applies an activity factor, then shows moderate planning ranges.",
+    "formula": "TDEE = estimated BMR × activity factor.",
+    "howItWorks": "The Mifflin–St Jeor equation estimates resting energy. An activity multiplier then represents typical movement and exercise. Suggested deficit and surplus figures are simple reference estimates, not personalized nutrition plans.",
+    "examples": [
+      "A BMR of 1,600 with light activity (1.375) gives about 2,200 maintenance kcal/day.",
+      "A 500 kcal daily deficit is a rough planning figure, not a guaranteed rate of weight loss."
+    ],
+    "faqs": [
+      {
+        "q": "How accurate is this estimate?",
+        "a": "It is a starting point. Tracking body-weight trends and consulting a qualified professional can provide better personalization."
+      },
+      {
+        "q": "Should everyone use a calorie deficit?",
+        "a": "No. Needs vary, and aggressive restriction can be unsafe, especially for minors, pregnancy, illness, or eating-disorder history."
+      }
+    ],
+    "related": [
+      "bmr-calculator",
+      "bmi-calculator",
+      "weight-converter"
+    ]
+  },
+  {
+    "name": "Age Calculator",
+    "slug": "age-calculator",
+    "category": "Date & Time",
+    "description": "Calculate exact age in years, months and days for any chosen date.",
+    "keywords": [
+      "age",
+      "birthday",
+      "date of birth",
+      "years",
+      "months",
+      "days"
+    ],
+    "icon": "calendar",
+    "group": "date-time",
+    "seoTitle": "Age Calculator — Exact Age in Years, Months & Days | ToolNest",
+    "seoDescription": "Calculate exact age on today’s date or any chosen date, with years, months, days, and next birthday.",
+    "intro": "Enter a date of birth and the date on which you want to measure age. The result uses calendar years, months, and days rather than an average month length.",
+    "formula": "Calendar age is found by advancing complete years, then complete months, then counting remaining days.",
+    "howItWorks": "The calculator first subtracts the birth year, then adjusts if the birthday has not occurred in the target year. Complete months are counted from the last birthday reference and remaining calendar days are counted last, handling month lengths and leap years.",
+    "examples": [
+      "Someone born 10 May 2000 is 24 on 10 May 2024.",
+      "On 9 May 2024, that same person is still 23 because the birthday has not occurred."
+    ],
+    "faqs": [
+      {
+        "q": "How are leap-day birthdays handled?",
+        "a": "Calendar arithmetic respects actual month lengths. Legal birthday treatment in non-leap years can vary by jurisdiction."
+      },
+      {
+        "q": "Can I calculate age on a past date?",
+        "a": "Yes, as long as the target date is on or after the date of birth."
+      }
+    ],
+    "related": [
+      "date-difference-calculator",
+      "date-calculator",
+      "time-calculator"
+    ]
+  },
+  {
+    "name": "Date Difference Calculator",
+    "slug": "date-difference-calculator",
+    "category": "Date & Time",
+    "description": "Find the elapsed calendar time and total days between two dates.",
+    "keywords": [
+      "date difference",
+      "days between dates",
+      "duration",
+      "calendar",
+      "weeks"
+    ],
+    "icon": "calendar-days",
+    "group": "date-time",
+    "seoTitle": "Date Difference Calculator — Days Between Dates | ToolNest",
+    "seoDescription": "Find the difference between two dates in years, months, days, total days, and weeks.",
+    "intro": "Compare any two calendar dates. The calculator reports a calendar breakdown plus total days and complete weeks, and clearly identifies the date order.",
+    "formula": "Total days = absolute UTC date difference ÷ 86,400,000 milliseconds.",
+    "howItWorks": "Dates are normalized at UTC midnight to prevent daylight-saving transitions from creating 23- or 25-hour day errors. Calendar years and months are advanced separately before the remaining days are counted.",
+    "examples": [
+      "1 January to 31 January is 30 elapsed days.",
+      "1 March 2024 to 1 March 2025 is one calendar year, or 365 days."
+    ],
+    "faqs": [
+      {
+        "q": "Are both start and end dates counted?",
+        "a": "The displayed difference is elapsed time, so adjacent dates differ by one day. Inclusive counting would add one."
+      },
+      {
+        "q": "Does time of day affect the result?",
+        "a": "No. This calculator compares calendar dates only."
+      }
+    ],
+    "related": [
+      "age-calculator",
+      "date-calculator",
+      "time-calculator"
+    ]
+  },
+  {
+    "name": "Date Calculator",
+    "slug": "date-calculator",
+    "category": "Date & Time",
+    "description": "Add or subtract years, months, weeks and days from a calendar date.",
+    "keywords": [
+      "date",
+      "add days",
+      "subtract days",
+      "calendar",
+      "future date",
+      "past date"
+    ],
+    "icon": "calendar-plus",
+    "group": "date-time",
+    "seoTitle": "Date Calculator — Add or Subtract Days, Weeks & Months | ToolNest",
+    "seoDescription": "Add or subtract years, months, weeks, and days from any date with accurate calendar arithmetic.",
+    "intro": "Find a date before or after a starting date. Apply years and months as calendar units, then add weeks and days for planning deadlines, renewals, and schedules.",
+    "formula": "Result = start date ± calendar years ± calendar months ± (weeks × 7 + days).",
+    "howItWorks": "Calendar months are applied without assuming that every month has 30 days. If a target month is shorter, the date is clamped to its final valid day before week and day offsets are added.",
+    "examples": [
+      "30 days after 1 April is 1 May.",
+      "One month after 31 January becomes the final valid day of February."
+    ],
+    "faqs": [
+      {
+        "q": "Does it exclude weekends?",
+        "a": "No. All calendar days are included."
+      },
+      {
+        "q": "Why can adding one month produce fewer than 31 days?",
+        "a": "A calendar month follows month boundaries and variable month lengths, not a fixed number of days."
+      }
+    ],
+    "related": [
+      "date-difference-calculator",
+      "age-calculator",
+      "time-calculator"
+    ]
+  },
+  {
+    "name": "Time Duration Calculator",
+    "slug": "time-calculator",
+    "category": "Date & Time",
+    "description": "Calculate elapsed hours and minutes between two clock times, including overnight shifts.",
+    "keywords": [
+      "time",
+      "duration",
+      "hours",
+      "minutes",
+      "shift",
+      "overnight",
+      "elapsed"
+    ],
+    "icon": "clock",
+    "group": "date-time",
+    "seoTitle": "Time Duration Calculator — Hours & Minutes Between Times | ToolNest",
+    "seoDescription": "Calculate elapsed hours and minutes between two times, with optional overnight handling.",
+    "intro": "Find the elapsed duration between a start time and end time. Overnight mode treats an earlier end time as occurring on the following day.",
+    "formula": "Duration in minutes = end minutes − start minutes; add 1,440 minutes when crossing midnight.",
+    "howItWorks": "Each clock time is converted to minutes after midnight. The start is subtracted from the end, and overnight mode adds one full day when the result would otherwise be negative.",
+    "examples": [
+      "09:15 to 17:45 lasts 8 hours 30 minutes.",
+      "22:00 to 06:00 the next day lasts 8 hours."
+    ],
+    "faqs": [
+      {
+        "q": "What if start and end are the same?",
+        "a": "The result is zero unless you explicitly intend a full 24-hour interval."
+      },
+      {
+        "q": "Does this account for breaks?",
+        "a": "No. Subtract break time separately from the elapsed duration."
+      }
+    ],
+    "related": [
+      "time-converter",
+      "date-difference-calculator",
+      "date-calculator"
+    ]
+  },
+  {
+    "name": "Time Zone Converter",
+    "slug": "time-zone-converter",
+    "category": "Date & Time",
+    "description": "Convert a local date and time between major IANA time zones in your browser.",
+    "keywords": [
+      "time zone",
+      "timezone",
+      "convert time",
+      "utc",
+      "gmt",
+      "world clock"
+    ],
+    "icon": "globe",
+    "group": "date-time",
+    "seoTitle": "Time Zone Converter — Convert World Time | ToolNest",
+    "seoDescription": "Convert dates and times between major world time zones with daylight-saving rules handled by your browser.",
+    "intro": "Translate a wall-clock date and time from one named time zone to another. The converter uses IANA zones so seasonal daylight-saving offsets are applied for the chosen date.",
+    "formula": "Source local time → UTC instant → destination local time.",
+    "howItWorks": "Because browser JavaScript has no direct wall-time parser for arbitrary zones, ToolNest compares formatted zone parts to locate the matching UTC instant. It then formats that instant in the destination zone using Intl.DateTimeFormat.",
+    "examples": [
+      "09:00 in Asia/Karachi is 04:00 UTC because Pakistan Standard Time is UTC+5.",
+      "New York and London offsets vary across the year because their daylight-saving change dates differ."
+    ],
+    "faqs": [
+      {
+        "q": "Are daylight-saving changes supported?",
+        "a": "Yes. The browser’s IANA time-zone database applies historical and seasonal offsets."
+      },
+      {
+        "q": "What happens to a time that does not exist during a clock change?",
+        "a": "The converter reports that it could not resolve the local time; choose a valid time after the transition."
+      }
+    ],
+    "related": [
+      "time-converter",
+      "time-calculator",
+      "date-calculator"
+    ]
+  },
+  {
+    "name": "Unit Converter",
+    "slug": "unit-converter",
+    "category": "Converters",
+    "description": "Convert common length, weight, area, volume, speed, time and data units in one place.",
+    "keywords": [
+      "unit",
+      "converter",
+      "convert",
+      "measurement",
+      "kg",
+      "cm",
+      "miles",
+      "temperature"
+    ],
+    "icon": "swap",
+    "group": "converters",
+    "seoTitle": "Unit Converter — Free Measurement Conversion | ToolNest",
+    "seoDescription": "Convert common units of length, weight, area, volume, speed, time, and digital storage.",
+    "intro": "Choose a measurement category, enter a value, and select source and destination units. Dedicated converters provide the same quick workflow for specific measurements.",
+    "formula": "Linear conversions use: result = value × source factor ÷ destination factor.",
+    "howItWorks": "Most units are stored as factors relative to one base unit per category. ToolNest converts to the base unit first and then to the requested unit. Temperature uses separate offset-aware formulas.",
+    "examples": [
+      "1 kilometre equals 1,000 metres.",
+      "1 kilogram equals about 2.20462 pounds."
+    ],
+    "faqs": [
+      {
+        "q": "Does conversion happen online?",
+        "a": "No. All factors and arithmetic are included in the application and run locally."
+      },
+      {
+        "q": "How many decimal places are shown?",
+        "a": "Results adapt to the value and preserve useful precision without displaying long floating-point noise."
+      }
+    ],
+    "related": [
+      "length-converter",
+      "weight-converter",
+      "temperature-converter",
+      "data-storage-converter"
+    ]
+  },
+  {
+    "name": "Length Converter",
+    "slug": "length-converter",
+    "category": "Converters",
+    "description": "Convert metric and imperial length units including metres, feet, inches and miles.",
+    "keywords": [
+      "length",
+      "distance",
+      "meter",
+      "metre",
+      "feet",
+      "inch",
+      "mile",
+      "cm"
+    ],
+    "icon": "ruler",
+    "group": "converters",
+    "seoTitle": "Length Converter — Metric & Imperial Distance | ToolNest",
+    "seoDescription": "Convert length and distance between millimetres, centimetres, metres, kilometres, inches, feet, yards, and miles.",
+    "intro": "Convert everyday and scientific distances between metric and imperial units. Swap the direction with one button while keeping the entered value.",
+    "formula": "Metres = value × source-to-metre factor; result = metres ÷ target-to-metre factor.",
+    "howItWorks": "Every unit is defined relative to the metre. The exact international relationships include 1 inch = 0.0254 metre and 1 mile = 1,609.344 metres.",
+    "examples": [
+      "10 kilometres equals about 6.21371 miles.",
+      "6 feet equals 72 inches or 1.8288 metres."
+    ],
+    "faqs": [
+      {
+        "q": "Are US and UK miles different?",
+        "a": "The modern international mile used here is 1,609.344 metres in both systems."
+      },
+      {
+        "q": "Is a nautical mile included?",
+        "a": "Yes. One nautical mile is exactly 1,852 metres."
+      }
+    ],
+    "related": [
+      "unit-converter",
+      "area-converter",
+      "speed-converter"
+    ]
+  },
+  {
+    "name": "Weight Converter",
+    "slug": "weight-converter",
+    "category": "Converters",
+    "description": "Convert mass between kilograms, pounds, ounces, stones, grams and tonnes.",
+    "keywords": [
+      "weight",
+      "mass",
+      "kg",
+      "kilogram",
+      "pound",
+      "lb",
+      "ounce",
+      "stone"
+    ],
+    "icon": "scale",
+    "group": "converters",
+    "seoTitle": "Weight Converter — Kilograms, Pounds, Ounces & Stones | ToolNest",
+    "seoDescription": "Convert weight and mass between kilograms, grams, pounds, ounces, stones, tonnes, and more.",
+    "intro": "Convert common mass units for health, cooking, shipping, and travel. The calculator uses standard international conversion constants.",
+    "formula": "Kilograms = value × source-to-kilogram factor; result = kilograms ÷ target factor.",
+    "howItWorks": "Each unit maps to kilograms as the base. One international avoirdupois pound equals exactly 0.45359237 kilograms, and ounces and stones are derived from that value.",
+    "examples": [
+      "70 kilograms equals about 154.324 pounds.",
+      "16 ounces equals 1 pound."
+    ],
+    "faqs": [
+      {
+        "q": "Is weight the same as mass?",
+        "a": "Technically weight is force and mass is matter, but everyday converters commonly use “weight” for mass units."
+      },
+      {
+        "q": "Which ton is used?",
+        "a": "Metric tonne, US short ton, and UK long ton are listed separately."
+      }
+    ],
+    "related": [
+      "unit-converter",
+      "bmi-calculator",
+      "volume-converter"
+    ]
+  },
+  {
+    "name": "Temperature Converter",
+    "slug": "temperature-converter",
+    "category": "Converters",
+    "description": "Convert temperatures between Celsius, Fahrenheit and Kelvin.",
+    "keywords": [
+      "temperature",
+      "celsius",
+      "fahrenheit",
+      "kelvin",
+      "degrees",
+      "weather"
+    ],
+    "icon": "thermometer",
+    "group": "converters",
+    "seoTitle": "Temperature Converter — Celsius, Fahrenheit & Kelvin | ToolNest",
+    "seoDescription": "Convert temperatures instantly between Celsius, Fahrenheit, and Kelvin with formulas.",
+    "intro": "Enter a temperature in Celsius, Fahrenheit, or Kelvin and convert it to either of the other scales. Offset-aware formulas are used rather than simple multiplication.",
+    "formula": "°F = °C × 9/5 + 32. K = °C + 273.15. °C = (°F − 32) × 5/9.",
+    "howItWorks": "All inputs are first converted to Celsius, then from Celsius to the destination scale. Kelvin cannot go below absolute zero, so physically impossible values are rejected.",
+    "examples": [
+      "0°C equals 32°F and 273.15 K.",
+      "100°C equals 212°F and 373.15 K."
+    ],
+    "faqs": [
+      {
+        "q": "At what temperature are Celsius and Fahrenheit equal?",
+        "a": "They are equal at −40 degrees."
+      },
+      {
+        "q": "Can Kelvin be negative?",
+        "a": "No. Zero kelvin is absolute zero, the lower limit of the thermodynamic scale."
+      }
+    ],
+    "related": [
+      "unit-converter",
+      "length-converter",
+      "weight-converter"
+    ]
+  },
+  {
+    "name": "Area Converter",
+    "slug": "area-converter",
+    "category": "Converters",
+    "description": "Convert area between square metric units, square feet, acres and hectares.",
+    "keywords": [
+      "area",
+      "square meter",
+      "square feet",
+      "acre",
+      "hectare",
+      "land"
+    ],
+    "icon": "square",
+    "group": "converters",
+    "seoTitle": "Area Converter — Square Feet, Metres, Acres & Hectares | ToolNest",
+    "seoDescription": "Convert area between square metres, square feet, acres, hectares, square kilometres, and more.",
+    "intro": "Convert floor, property, and land areas across metric and imperial units. Source and destination units can be swapped instantly.",
+    "formula": "Square metres = value × source-to-m² factor; result = square metres ÷ target factor.",
+    "howItWorks": "All area units are represented in square metres. Squared linear conversions must square the length factor: one square foot is 0.09290304 square metre, not 0.3048 square metre.",
+    "examples": [
+      "1 hectare equals 10,000 square metres.",
+      "1 acre equals about 4,046.856 square metres or 43,560 square feet."
+    ],
+    "faqs": [
+      {
+        "q": "How many acres are in a hectare?",
+        "a": "One hectare is approximately 2.47105 acres."
+      },
+      {
+        "q": "Why are area factors squared?",
+        "a": "Area has two dimensions, so converting both length and width squares the linear conversion factor."
+      }
+    ],
+    "related": [
+      "length-converter",
+      "unit-converter",
+      "volume-converter"
+    ]
+  },
+  {
+    "name": "Volume Converter",
+    "slug": "volume-converter",
+    "category": "Converters",
+    "description": "Convert litres, millilitres, cubic units, cups, pints and gallons.",
+    "keywords": [
+      "volume",
+      "liter",
+      "litre",
+      "ml",
+      "gallon",
+      "cup",
+      "pint",
+      "cubic"
+    ],
+    "icon": "beaker",
+    "group": "converters",
+    "seoTitle": "Volume Converter — Litres, Gallons, Cups & Cubic Units | ToolNest",
+    "seoDescription": "Convert volume between litres, millilitres, cubic metres, US cups, pints, quarts, and gallons.",
+    "intro": "Convert liquid and three-dimensional volume units. US customary and imperial gallons are labeled separately because they are not the same size.",
+    "formula": "Litres = value × source-to-litre factor; result = litres ÷ target factor.",
+    "howItWorks": "The litre is the internal base. Metric and cubic units use exact relationships, while US customary and imperial units use their defined litre equivalents.",
+    "examples": [
+      "1 litre equals 1,000 millilitres.",
+      "1 US gallon is about 3.78541 litres, while 1 imperial gallon is about 4.54609 litres."
+    ],
+    "faqs": [
+      {
+        "q": "Which cup does the converter use?",
+        "a": "The labeled US cup is 236.588 millilitres; a metric cup option is also included."
+      },
+      {
+        "q": "Is a millilitre equal to a cubic centimetre?",
+        "a": "Yes. One millilitre equals exactly one cubic centimetre."
+      }
+    ],
+    "related": [
+      "unit-converter",
+      "area-converter",
+      "weight-converter"
+    ]
+  },
+  {
+    "name": "Speed Converter",
+    "slug": "speed-converter",
+    "category": "Converters",
+    "description": "Convert speed between km/h, mph, metres per second, knots and more.",
+    "keywords": [
+      "speed",
+      "velocity",
+      "kph",
+      "kmh",
+      "mph",
+      "meters per second",
+      "knots"
+    ],
+    "icon": "gauge",
+    "group": "converters",
+    "seoTitle": "Speed Converter — km/h, mph, m/s & Knots | ToolNest",
+    "seoDescription": "Convert speed instantly between kilometres per hour, miles per hour, metres per second, feet per second, and knots.",
+    "intro": "Translate road, running, aviation, and marine speeds among common units. Results update locally and can be copied with one click.",
+    "formula": "Metres per second = value × source-to-m/s factor; result = m/s ÷ target factor.",
+    "howItWorks": "Each speed is represented as metres travelled per second. Distance and time definitions determine exact factors, such as 1 mph = 0.44704 m/s.",
+    "examples": [
+      "100 km/h equals about 62.1371 mph.",
+      "10 m/s equals exactly 36 km/h."
+    ],
+    "faqs": [
+      {
+        "q": "What is a knot?",
+        "a": "One knot is one nautical mile per hour, exactly 1.852 km/h."
+      },
+      {
+        "q": "Does speed conversion include direction?",
+        "a": "No. Direction is part of velocity as a vector; this tool converts magnitude only."
+      }
+    ],
+    "related": [
+      "length-converter",
+      "time-converter",
+      "unit-converter"
+    ]
+  },
+  {
+    "name": "Time Converter",
+    "slug": "time-converter",
+    "category": "Converters",
+    "description": "Convert duration units from nanoseconds and seconds to days, weeks and years.",
+    "keywords": [
+      "time",
+      "duration",
+      "seconds",
+      "minutes",
+      "hours",
+      "days",
+      "weeks"
+    ],
+    "icon": "clock",
+    "group": "converters",
+    "seoTitle": "Time Converter — Seconds, Minutes, Hours & Days | ToolNest",
+    "seoDescription": "Convert duration between nanoseconds, milliseconds, seconds, minutes, hours, days, weeks, and years.",
+    "intro": "Convert an amount of elapsed time between short and long duration units. For calendar scheduling, use the Date Calculator instead.",
+    "formula": "Seconds = value × source-to-second factor; result = seconds ÷ target factor.",
+    "howItWorks": "Fixed durations are stored relative to the second. A day is treated as 86,400 seconds and a week as seven days; the year option uses 365.2425 days as a long-term Gregorian average.",
+    "examples": [
+      "2.5 hours equals 150 minutes or 9,000 seconds.",
+      "14 days equals 2 weeks."
+    ],
+    "faqs": [
+      {
+        "q": "Is a month included?",
+        "a": "An average Gregorian month is available, but real calendar months vary from 28 to 31 days."
+      },
+      {
+        "q": "Does this convert time zones?",
+        "a": "No. Use the Time Zone Converter for wall-clock times in different regions."
+      }
+    ],
+    "related": [
+      "time-calculator",
+      "time-zone-converter",
+      "date-calculator"
+    ]
+  },
+  {
+    "name": "Data Storage Converter",
+    "slug": "data-storage-converter",
+    "category": "Converters",
+    "description": "Convert bytes, bits and decimal or binary storage units from KB through TB.",
+    "keywords": [
+      "data",
+      "storage",
+      "byte",
+      "bit",
+      "kb",
+      "mb",
+      "gb",
+      "tb",
+      "kib",
+      "mib"
+    ],
+    "icon": "database",
+    "group": "converters",
+    "seoTitle": "Data Storage Converter — KB, MB, GB, TB, KiB & More | ToolNest",
+    "seoDescription": "Convert digital storage between bits, bytes, decimal KB/MB/GB/TB and binary KiB/MiB/GiB/TiB.",
+    "intro": "Convert digital storage and data sizes with decimal SI units and binary IEC units labeled clearly. This avoids the common 1,000-versus-1,024 ambiguity.",
+    "formula": "Decimal: 1 kB = 1,000 bytes. Binary: 1 KiB = 1,024 bytes. 1 byte = 8 bits.",
+    "howItWorks": "Every unit is mapped to bits. Decimal prefixes use powers of 1,000, while binary prefixes use powers of 1,024, and the result is converted from bits into the requested destination unit.",
+    "examples": [
+      "1 GB equals 1,000 MB and 8,000,000,000 bits.",
+      "1 GiB equals 1,024 MiB or 1,073,741,824 bytes."
+    ],
+    "faqs": [
+      {
+        "q": "Why does an advertised 1 TB drive show less in some systems?",
+        "a": "Manufacturers often use decimal TB while some software reports binary TiB-like values but labels them TB."
+      },
+      {
+        "q": "Are b and B different?",
+        "a": "Yes. Lowercase b means bit and uppercase B means byte; eight bits make one byte."
+      }
+    ],
+    "related": [
+      "unit-converter",
+      "time-converter",
+      "volume-converter"
+    ]
+  }
+]
